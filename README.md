@@ -3,7 +3,7 @@
 ## [<a href="https://ut-mao.github.io/noise.github.io/" target="_blank">Project Page</a>] [<a href="https://arxiv.org/abs/2312.08872" target="_blank">Paper</a>]
 
 Refer to our previous work for more discussion about initial noise in diffusion!
-- <a href="https://ut-mao.github.io/swap.github.io/" target="_blank">Guided Image Synthesis via Initial Image Editing in Diffusion Model</a>
+- <a href="https://ut-mao.github.io/swap.github.io/" target="_blank">Guided Image Synthesis via Initial Image Editing in Diffusion Model (ACM MM 2023)</a>
 
 ![teaser](./teaser.png)
 
