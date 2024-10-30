@@ -30,7 +30,7 @@ ln -s <path/to/model.ckpt> models/ldm/stable-diffusion-v1/model.ckpt
 ```
 ## Hands on
 
-Play with [hands-on](./Hands_on_ECCV.ipynb) to try our approach right away, refer to [utils.py](./utils.py) for the implementation.
+Play with [hands-on](./hands_on_ECCV.ipynb) to try our approach right away, refer to [utils.py](./utils.py) for the implementation.
 
 ## Citation
 ```
